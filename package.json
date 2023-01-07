@@ -15,9 +15,9 @@
     "vue": "^2.6.10"
   },
   "devDependencies": {
-    "@vue/cli-service": "^3.7.0",
+    "@vue/cli-service": "^5.0.8",
     "bili": "^4.8.1",
-    "rollup-plugin-vue": "^5.0.0",
+    "rollup-plugin-vue": "^6.0.0",
     "vue-template-compiler": "^2.5.21"
   },
   "postcss": {
